@@ -1,0 +1,19 @@
+{
+  "name": "ypp-computer-vue3",
+  "version": "1.0.0",
+	"author": "melonylxy<li2407479693@163.com>",
+  "description": "艺品品电脑端项目",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@tencentcloud/lite-chat": "^4.2.1",
+    "idb": "^8.0.3",
+    "pinia": "^3.0.3",
+    "qrcode-generator": "^2.0.4",
+    "viewerjs": "^1.11.7"
+  }
+}

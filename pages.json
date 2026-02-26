@@ -1,0 +1,293 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/details/details",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom",
+				"onReachBottomDistance": 300
+			}
+		},
+		{
+			"path" : "pages/details/detailsPurchase",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom",
+				"onReachBottomDistance": 300
+			}
+		},
+		{
+			"path" : "pages/about/about",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/condittion/condittion",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/download/download",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/message/message",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/display/display",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/NumTransaction/NumTransaction",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/down/down",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/mine/mine",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle" : "custom"
+			}
+		},
+		{
+			"path" : "pages/lottery/lottery",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/activeRules/activeRules",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/myAward/myAward",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/ranking/ranking",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/points/points",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/buy/buy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/getOrder/getOrder",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/saleApply/saleApply",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/saleDetail/saleDetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/saleDetail/merch",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/order/order",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/MobileMy/MobileMy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/chechIn/chechIn",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/webView/webView",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品"
+			}
+		},
+		{
+			"path" : "pages/hotZone/hotZone",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/hotZone/hotCoin",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/secondTrend/secondTrend",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/flashSale/flashSale",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/logistics/logistics",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/hotspot/hotspot",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/ProductInfo/ProductInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/hotNews/hotNews",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom",
+				"onReachBottomDistance": 300
+			}
+		},
+		{
+			"path" : "pages/countDown/countDown",
+			"style" : 
+			{
+				"navigationBarTitleText" : "艺品品 - 让生活，更有品",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "艺品品 - 让生活，更有品",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

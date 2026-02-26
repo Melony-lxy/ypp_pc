@@ -1,0 +1,33 @@
+.wx-login-container iframe {
+	width: 190px;
+	height: 190px;
+}
+
+.wx-login-container>iframe {
+	width: 190px;
+	height: 190px;
+}
+
+.impowerBox .qrcode {
+	width: 180px;
+	height: 180px;
+	margin: 0;
+	border-radius: 6px;
+}
+
+.impowerBox .title {
+	display: none;
+}
+
+.impowerBox .info {
+	display: none;
+}
+
+.status_icon {
+	display: none
+}
+
+.impowerBox .web_qrcode_switch_wrp {
+	display: none;
+}
+
